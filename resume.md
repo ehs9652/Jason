@@ -17,6 +17,10 @@ Link: [Google][googlelink]
 
 <https://google.com>
 
+1 | 2
+--|--
+3 | 4
+
 *single asterisks*  
 _single underscores_  
 **double asterisks**  
