@@ -1,7 +1,7 @@
 Resume
 =====
 > Name : Jason  
-> University : Hallym
+> University : Hallym  
 > Student Number : Electronics Engineering 20167158  
 * * *
 #### Course  
