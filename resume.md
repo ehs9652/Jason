@@ -4,7 +4,7 @@ Resume
 > University : Hallym
 > Student Number : Electronics Engineering 20167158  
 * * *
-#### 수강과목  
+#### Course  
 * Open Source Linux  
   * C#
 ------------------
