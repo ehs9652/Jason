@@ -1,31 +1,60 @@
-Resume
-=====
-> Name : Jason  
-> University : Hallym  
-> Student Number : Electronics Engineering 20167158  
-* * *
-#### Course  
-* Open Source Linux  
-  * C#
-------------------
-Recommend Sites  
-Link: [Google][googlelink]
-
-[googlelink]: https://google.com "Go google"
-
-[Google](https://google.com)
-
-<https://google.com>
-
-1 | 2
---|--
-3 | 4
-
-*single asterisks*  
-_single underscores_  
-**double asterisks**  
-__double underscores__  
-++underline++  
-~~cancelline~~
-
-![Space](https://3c1703fe8d.site.internapcdn.net/newman/csz/news/800/2017/whatisspacet.jpg)
+이력서
+=====  
+![Profile](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs3wnGxQwTmNjQYWBFlmh3GORSOcIWMACB4nVY1YdLZMLa9Hb0)
+## 소개  
+> 이름 : 이화성  
+> 군필여부 : 미필(사회복무요원 복무 예정)  
+> 취미 : 작문, 음악 및 애니 감상, 인터넷 서핑, 사색하기  
+> 종교 : 개신교  
+> 좌우명 : Memento Mori(죽음을 생각하라), Carpe Diem(현재에 충실하라).  
+## 정보  
+> Email: ehs9652@naver.com  
+> GitHub: https://github.com/ehs9652  
+## 학력
+> 고등학교 졸업학력 검정고시 합격(2012.08)  
+> 독학사 컴퓨터과학과 학사학위 취득 및 졸업(2016.02)  
+> 한림대학교 전자공학과 편입(2018.03)  
+> 한림대학교 3학년 2학기 재학중(2018.11.22 현재)    
+## 수강 전공 과목 
+* 3학년 1학기
+  * AI헬스케어(이론 및 실습) / 공학수학기초 / 캡스톤디자인 / 파이썬기초 / 회로이론및실험1  
+* 3학년 2학기  
+  * 신호및시스템 / 전자기학 / 전자물성학 / 회로이론및실험2 / 오픈소스리눅스실무
+## 경력
+* 하계 현장실습 인턴 : (주)KT&G 상상univ.
+  * 기간 : 2018.06.25 ~ 2018.07.20(4주)
+  * 인턴 업무 : 이벤트 기획안 작성 및 발표
+## 자격증
+* 정보처리기사 취득(2018.06)
+## 해외 어학연수
+* 필리핀 Tagaytay City에서 영어 공부(2011.02 ~ 2011.04, 2011.07 ~ 2011.08)  
+## 공인영어성적
+* TEPS 452점(2017.11)  
+## 사용 기술
+* C  
+* Python  
+* Arduino  
+* Cadence OrCAD PSpice Designer  
+* Mathworks MATLAB  
+* Adobe Photoshop  
+## 현재 공부중인 내용
+* 전자의 거동 현상
+* 신호와 선형 시불변 시스템
+* 회로이론
+* 프로그래밍 언어
+* 물리학
+* 대학수학
+* 영어
+* 일본어
+## 흥미분야
+![AI](https://static.latribune.fr/full_width/547508/ia.jpg)
+* 인공지능  
+  * 딥러닝  
+  * 신호처리  
+* 신기술 동향  
+## 이루고 싶은 꿈
+1. 과학과 인간에 대한 깊은 이해와 연구를 통해서 이전보다 기술적으로, 정신적으로 더 나은 사회와 세상을 만들고 싶습니다.  
+2. 실속 없이 주목받으며 성공하는 인생보다 조용히 자기에게 맡겨진 일들을 충실하게 수행하는 소박한 인생을 살고 싶습니다.  
+3. 4차 산업혁명을 이끄는 선두주자로서 새로운 가치를 창조하는 사람이 되고 싶습니다.  
+  
+![Vision](https://pearlacademy.com/images/mission_img.jpg)
