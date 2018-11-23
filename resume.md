@@ -58,3 +58,7 @@
 3. 4차 산업혁명을 이끄는 선두주자로서 새로운 가치를 창조하는 사람이 되고 싶습니다.  
   
 ![Vision](https://pearlacademy.com/images/mission_img.jpg)
+
+
+
+끝까지 읽어주셔서 감사합니다.
